@@ -41,7 +41,7 @@ Preprint (2026). [ChemRxiv: 10.26434/chemrxiv.15008906/v1](https://doi.org/10.26
 ### Talks & Posters
 
 **Phonon-limited mobility of Bi₂O₂Se from first-principles GW perturbation theory** \
-Oral presentation · Korean Physical Society Fall Meeting \
+Contributed talk · Korean Physical Society Fall Meeting \
 ICC Jeju, Jeju, Korea · October 21, 2026
 
 **Phonon-limited mobility of Bi₂O₂Se from first-principles GW perturbation theory** \
