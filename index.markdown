@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+Under construction
+
 ### Byeongchan Lee
 {: .mt-5 .display-5 .fw-bold text-primary }
 
@@ -34,7 +36,7 @@ Preprint (2026). [arXiv:2610.20779](https://arxiv.org/abs/2610.20779)
 
 **Polymorphous Structural Landscapes Drive Broadband Optical Response in Water-Stable Mixed-Halide Antiperovskites** \
 Sahiba Bano, Ghita Khatiri, Mitisha Jain, Prince Sharma, Saurabh Saini, **Byeongchan Lee**, Young Woo Choi, Zhenglu Li, Rajiv Kumar Singh, Soumitra Satapathi, Satoshi Ishii, Marios Zacharias, and Francisco Palazon. \
-Preprint (2026).
+Preprint (2026). [ChemRxiv: 10.26434/chemrxiv.15008906/v1](https://doi.org/10.26434/chemrxiv.15008906/v1)
 
 ### Talks & Posters
 
@@ -58,9 +60,6 @@ BEXCO, Busan, Korea · December 8–11, 2025
 
 **University of Southern California** · 2026 \
 Six-month research visit to [Prof. Zhenglu Li’s group](https://sites.usc.edu/ligroup/), Los Angeles, CA, USA.
-
-**University of California, Berkeley** · August 2025 \
-Visiting research, Berkeley, CA, USA.
 
 ### Honors
 
