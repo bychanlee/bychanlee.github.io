@@ -21,10 +21,10 @@
 title: Byeongchan Lee
 email: bychan.lee@sogang.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D Student @ Sogang University
+  First-principles many-body physics · Sogang University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  brycebyeongchan
+url: "https://bychanlee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: bychanlee
 
 # Build settings
 theme: minima
@@ -51,3 +51,10 @@ remote_theme: aterenin/minima-reboot
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - index.markdown
+  - publications.md
+  - talks.md
+  - experience.md
+  - honors.md
