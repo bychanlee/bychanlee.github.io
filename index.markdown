@@ -44,15 +44,15 @@ Preprint (2026). [ChemRxiv: 10.26434/chemrxiv.15008906/v1](https://doi.org/10.26
 Oral presentation · Korean Physical Society Fall Meeting \
 ICC Jeju, Jeju, Korea · October 21, 2026
 
-**Phonon-Limited Mobility of Bi₂O₂Se from First-Principles GW Perturbation Theory** \
+**Phonon-limited mobility of Bi₂O₂Se from first-principles GW perturbation theory** \
 Poster presentation · 12th BerkeleyGW Tutorial Workshop and 7th Berkeley Excited States Conference (BESC2026) \
 UC Berkeley, Berkeley, CA, USA · August 17–21, 2026
 
-**Excitons in 1D Single-Chains and Anisotropic 2D Heterostructures from GW-BSE** \
+**Excitons in 1D single-chains and anisotropic 2D heterostructures from GW-BSE** \
 Contributed talk · Workshop on CMS and HPC \
 University of Southern California, Los Angeles, CA, USA · April 2, 2026
 
-**First-principles Study of Excitons in 1D Single Chains** \
+**First-principles study of excitons in 1D single chains** \
 Poster presentation · ICAMD 2025 \
 BEXCO, Busan, Korea · December 8–11, 2025
 
