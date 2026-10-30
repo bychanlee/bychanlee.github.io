@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-### [Byeongchan Lee]({{ "/assets/CV_2025.pdf" | relative_url }})
+### Byeongchan Lee
 {: .mt-5 .display-5 .fw-bold text-primary }
 
 Ph.D Student @
