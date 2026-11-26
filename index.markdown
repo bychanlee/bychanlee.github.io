@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-Under construction
-
 ### Byeongchan Lee
 {: .mt-5 .display-5 .fw-bold text-primary }
 
