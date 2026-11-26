@@ -12,6 +12,8 @@ Ph.D. Candidate @
 [Computational Quantum Materials Physics Lab](https://yw-choi.github.io/), \
 Department of Physics, Sogang University.
 
+[ORCID](https://orcid.org/0009-0000-3055-0239) · [Google Scholar](https://scholar.google.com/citations?user=M23lm8YAAAAJ)
+
 ### Research Interests
 
 - Calculations of quantum excitations in low-dimensional materials
